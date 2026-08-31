@@ -1,0 +1,1 @@
+# MessMate uses zero external dependencies with standard Python library
